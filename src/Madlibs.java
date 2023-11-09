@@ -24,6 +24,7 @@ public class Madlibs {
     public String letterGrade="F";
     public String season="Fall";
     //define a string called story for mad lib
+
     String story = "This weekend I am going camping with "
             +classmate+ ". We are going to a campsite in "
             +city+ ". I packed my "+noun+ " and "
