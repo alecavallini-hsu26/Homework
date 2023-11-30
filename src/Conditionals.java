@@ -6,7 +6,7 @@ public class Conditionals {
     public Conditionals(){
         String question="Do you like school?";
         System.out.println(question);
-        int randomInt = (int)(Math.random() * 101);  // 0 to 100
+        double randomInt = Math.random() ;// 0 to 100
 
         if (randomInt<0.16){
 
